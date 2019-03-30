@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">InventoryRoom</string>
+    <string name="hint_name">Ingrese nombre</string>
+    <string name="hint_description">Ingrese descripción</string>
+    <string name="hint_quantity">Ingrese cantidad</string>
+    <string name="action_save">Guardar</string>
+    <string name="action_add">Agregar</string>
+    <string name="action_delete">eliminar</string>
+    <string name="et_name">Nombre</string>
+    <string name="et_description">Descripcion</string>
+    <string name="et_quantity">Cantidad</string>
+    <string name="item_add">Agregar</string>
+    <string name="item_save">Guardar</string>
 </resources>
